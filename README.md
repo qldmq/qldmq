@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm qldmq!  
 🌟 **Welcome to my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20qldmq's%20GitHub!&fontSize=60&animation=fadeIn&fontAlignY=35&desc=비읍&descAlignY=55&descAlign=50&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20qldmq's%20GitHub!&fontSize=60&animation=fadeIn&fontAlignY=35&desc=qldmq&descAlignY=55&descAlign=85&fontAlign=50"/>
 
 **qldmq/qldmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
