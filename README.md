@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm qldmq!  
 🌟 **Welcome to my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20projects!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=qldmq의%20깃허브에%20오신%20것을%20환영합니다!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=프로젝트를%20둘러보세요!&descAlignY=51&descAlign=62"/>
 
 **qldmq/qldmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=fadeIn&fontAlignY=65&desc=Come%20back%20soon!&descAlignY=88&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=감사합니다!&fontSize=40&animation=fadeIn&fontAlignY=65&desc=다음에%20또%20만나요!&descAlignY=88&descAlign=62"/>
