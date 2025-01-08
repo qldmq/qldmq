@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=65&desc=감사합니다&descAlignY=88&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=65"/>
