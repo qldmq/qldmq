@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-![qldmq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qldmq&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qldmq&layout=compact&theme=radical&bg_color=E0F7FA&text_color=263238)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qldmq&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![qldmq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qldmq&show_icons=true&theme=radical&hide_title=true&bg_color=E0F7FA&text_color=263238)
 
 ---
 
